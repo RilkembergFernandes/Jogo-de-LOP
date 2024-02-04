@@ -1,0 +1,1 @@
+Esse é um projeto amador de um jogo sem coisas extraordianarias.
