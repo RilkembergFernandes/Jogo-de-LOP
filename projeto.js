@@ -1,0 +1,3 @@
+var x 
+x= 1+1
+alert(x)
