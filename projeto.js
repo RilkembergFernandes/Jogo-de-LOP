@@ -1,5 +1,5 @@
 
-var gatox
+  var gatox
   var pocoyo
   var patinho=[]
   var tempo1
